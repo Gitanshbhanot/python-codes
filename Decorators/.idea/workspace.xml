@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="722536a5-e5c9-406d-a224-c3cb47ce87c1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Vsn2hl0Tt8ZiA4vqx010GjiNHH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.Decorators2">
+    <configuration name="Decorator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Decorators" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Decorator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Decorators2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Decorators" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Decorators2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Decorators2" />
+        <item itemvalue="Python.Decorator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="722536a5-e5c9-406d-a224-c3cb47ce87c1" name="Default Changelist" comment="" />
+      <created>1578050465089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578050465089</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1374" height="180" key="GridCell.Tab.0.bottom" timestamp="1578052014681">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1374" height="180" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1578052014681" />
+    <state width="1374" height="180" key="GridCell.Tab.0.center" timestamp="1578052014680">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1374" height="180" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1578052014680" />
+    <state width="1374" height="180" key="GridCell.Tab.0.left" timestamp="1578052014679">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1374" height="180" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1578052014679" />
+    <state width="1374" height="180" key="GridCell.Tab.0.right" timestamp="1578052014680">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1374" height="180" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1578052014680" />
+    <state x="316" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1578050471431">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="316" y="220" key="com.intellij.ide.util.TipDialog/0.23.1440.806@0.23.1440.806" timestamp="1578050471431" />
+  </component>
+</project>
